@@ -8,7 +8,7 @@ Assessment activity of the 1º period of IT Bachelor on Loops in Python / Ativid
 Using lists implement a program that generates a sequence of non-repeating random numbers of the length entered by the user. The program should ask the user for the desired number of numbers and the desired numerical range.
 
 Usando listas implemente um programa que gera uma sequencia de números aleatórios não repetidos do tamanho informado pelo usuário. O programa deve perguntar ao usuário a quantidade de números desejados e o intervalo numérico desejado.
-1. Exemple / Exemplo
+1. Example / Exemplo
 ```py
 
 Ex1
@@ -17,7 +17,7 @@ Qual o intervalo? 20 40
 Erro!
 Não posso gerar 50 numeros não repetidos entre 20 e 40!
 ```
-2. Exemple / Exemplo
+2. Example / Exemplo
 ```py
 
 Quantos números? 10
